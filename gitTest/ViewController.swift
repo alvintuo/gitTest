@@ -10,6 +10,8 @@ import UIKit
 
 // random comment for git test
 
+// changed author name
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
